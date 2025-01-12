@@ -1,0 +1,13 @@
+---
+
+### `.gitignore`
+```gitignore
+# Python specific
+__pycache__/
+*.py[cod]
+
+# macOS specific
+.DS_Store
+
+# Other
+*.log
